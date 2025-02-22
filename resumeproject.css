@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Calibri, sans-serif;
     font-size: 15px;
     color: #333;
     background-color: floralwhite;
@@ -8,7 +8,7 @@ body {
     margin: 20px;
     padding: 20px;
 
-    background-image: url(./resumebackground.gif); background-repeat: no-repeat; background-size: cover
+    background-image: url(./resumebackground.gif); background-repeat: no-repeat; background-size: cover;
 }
 
 /* Headings */
